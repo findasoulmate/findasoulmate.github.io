@@ -7,7 +7,7 @@ summary: A robotics control engineer whose main responsibilities involve motion 
 location: China
 email: 1272654266@qq.com
 github: https://github.com/findasoulmate
-profile_image: /assets/images/batulu.jpg
+profile_image: /assets/images/batulu/batulu_1.jpg
 video_embed: https://www.youtube.com/watch?v=EglSolXh5CM
 gallery:
   - src: /assets/images/placeholder.svg
