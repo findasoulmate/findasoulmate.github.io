@@ -1,6 +1,13 @@
 ---
-layout: home
-title: Home
+layout: null
+permalink: /
 ---
-
-Visit my custom resume page: [Resume](/resume/)
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url=/resume/">
+  <link rel="canonical" href="/resume/">
+</head>
+<body>Redirecting to <a href="/resume/">Resume</a>...</body>
+</html>

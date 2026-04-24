@@ -28,6 +28,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Navigation: only show these pages, in this order
+header_pages:
+  - resume.md
+  - about.md
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Some other personal websites or materials.
+title: About.
 permalink: /about/
 ---
 
