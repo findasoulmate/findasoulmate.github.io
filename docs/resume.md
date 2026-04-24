@@ -8,7 +8,7 @@ location: China
 email: 1272654266@qq.com
 github: https://github.com/findasoulmate
 profile_image: /assets/images/batulu/batulu_1.jpg
-video_embed: https://www.bilibili.com/video/BV1Pno5BsEjG/?spm_id_from=333.1387.upload.video_card.click&vd_source=2cec209378981b5fa48089435b1d3456
+video_embed: https://player.bilibili.com/player.html?bvid=BV1Pno5BsEjG&page=1
 gallery:
   - src: /assets/images/placeholder.svg
     alt: Project 1
