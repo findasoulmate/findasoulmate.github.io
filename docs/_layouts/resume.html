@@ -7,7 +7,7 @@ layout: default
 <div class="resume-page">
   <header class="resume-hero">
     <div class="resume-hero-text">
-      <h1>{{ page.name | default: site.title }}</h1>
+      <h1>{{ page.full_name | default: site.title }}</h1>
       <p class="resume-summary">{{ page.summary }}</p>
       <ul class="resume-meta">
         <li>{{ page.location }}</li>

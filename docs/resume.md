@@ -2,7 +2,7 @@
 layout: resume
 title: Resume
 permalink: /resume/
-name: Jianing Wu
+full_name: Jianing Wu
 summary: A robotics control engineer whose main responsibilities involve motion control related to quadruped robots, particularly vision-based motion control.
 location: China
 email: 1272654266@qq.com
