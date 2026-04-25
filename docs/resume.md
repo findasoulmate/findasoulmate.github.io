@@ -10,13 +10,13 @@ github: https://github.com/findasoulmate
 profile_image: /assets/images/batulu/batulu_1.jpg
 video_embed: https://player.bilibili.com/player.html?bvid=BV1Pno5BsEjG&page=1
 gallery:
-  - src: /assets/images/batulu/batulu_2.svg
+  - src: /assets/images/batulu/batulu_2.jpg
     alt: Project 1
     caption: Competition photos.
-  - src: /assets/images/batulu/batulu_3.svg
+  - src: /assets/images/batulu/batulu_3.jpg
     alt: Project 2
     caption: Competition photos.
-  - src: /assets/images/batulu/batulu_5.svg
+  - src: /assets/images/batulu/batulu_5.jpg
     alt: Project 3
     caption: Competition photos.
 ---
